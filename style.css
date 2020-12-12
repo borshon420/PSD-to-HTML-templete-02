@@ -1,0 +1,374 @@
+body {
+	margin: 0;
+}
+
+.header {
+	background-image: url(img/2.jpg);
+	height: 500px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.image-container {
+	text-align: center;
+	margin-top: 90px;
+}
+
+.image-container h1 {
+	text-transform: uppercase;
+	font-size: 60px;
+	color:  #df001f;
+}
+
+.image-container h2 {
+	font-size: 40px;
+	margin-top: -20px;
+}
+
+.image-container a {
+	margin-top: 50px;
+	color: #fdeef0;
+	background-color: #df001f;
+	border: none;
+	border-radius: 20px;
+	
+}
+
+
+.header-content {
+	background-color: #df001f;
+}
+
+.header-content-1 {
+	
+}
+
+.header-content-1 ul {
+	margin: 0;
+	padding: 0;
+	margin-left: 20px;
+	
+}
+
+.header-content-1 ul li {
+	list-style: none;
+	display: inline-block;
+	
+	
+	
+}
+
+.header-content-1 ul li a {
+	display: block;
+	padding: 20px 0;
+	color: #fdeef0;
+	text-transform: uppercase;
+	margin-right: 15px;
+	
+}
+
+.header-content-2 {
+
+}
+
+.header-content-2 img {
+	height: 50px;
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 60px;
+}
+
+.header-content-3 {
+
+}
+
+.header-content-3 ul {
+	display: inline-block;
+	margin-top: 25px;
+	margin-left: 20px;
+}
+
+.header-content-3 ul li {
+	display: block;
+	color: #fdeef0;
+	
+}
+
+.header-content-3 ul p {
+	margin-left: 20px;
+	margin-top: -20px;
+	color: #fdeef0;
+}
+
+.header-content-3 span {
+	color: #df001f;
+	padding: 10px 20px;
+	margin-left: 30px;
+}
+
+.line hr {
+	margin-top: -1px;
+	background-color: #df001f;
+	width: 100%;
+	margin-left: -20%;
+	height: 2px;
+}
+
+.intro {
+	margin-bottom: 30px;
+}
+.arrow {
+	margin-top: 120px;
+	
+}
+
+.arrow i {
+	
+	background-color: #df001f;
+	padding: 15px;
+		
+}
+
+.card {
+	border: none;
+}
+
+.text {
+	background-color: #df001f;
+	color: #fdeef0;
+
+}
+
+
+
+.text h4 {
+	padding: 10px 20px;
+}
+
+.text h6 {
+	margin-top: -15px;
+	padding: 0 20px;
+	padding-bottom: 20px;
+}
+
+.text-list {
+	background-color: #df001f;
+	margin-top: 10px;
+}
+
+.text-list ul {
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: -5px;
+}
+
+.text-list ul i {
+	display: block;
+	color: #fdeef0;
+	margin-left: -35px;
+
+	
+}
+
+.text-list ul p {
+	margin-left: -10px;
+	margin-top: -20px;
+	color: #fdeef0;
+	float: left;
+}
+
+.line-2 hr {
+	background-color: #dfdfdf;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	height: 2px;
+}
+
+.coming {
+	margin-top: 80px;
+}
+
+.coming .jumbotron {
+	background-image: url(img/6.jpg);
+	height: 290px;
+	background-repeat: no-repeat;
+}
+
+.coming .jumbotron h2 {
+	color: #dfdfdf;
+	margin-top: 40px;
+	margin-left: 70px;
+}
+
+.latest .jumbotron {
+	background-image: url(img/7.jpg);
+	height: 290px;
+	background-repeat: no-repeat;
+}
+
+.latest .jumbotron h2 {
+	color: #dfdfdf;
+	margin-top: 40px;
+	margin-left: 70px;
+}
+
+
+.middle p {
+	margin-left: 50px;
+}
+
+.circle i {
+	font-size: 60px;
+	color: #df001f;
+	margin-left: 115px;
+	margin-top: 50px;
+	background-color: #dfdfdf;
+	border-radius: 50%;
+}
+
+
+
+.line-4 hr {
+	background-color: #dfdfdf;
+	margin-top: -25px;
+	height: 2px;
+	width: 65%;
+	margin-left: 0;
+}
+
+.line-3 hr {
+	height: 2px;
+	background-color: #df001f;
+	width: 20%;
+	margin-top: -20px;
+	margin-left: 20px;
+	
+	
+}
+
+.arrow-2 {
+	margin-left: 239px;
+	margin-bottom: 20px;
+}
+
+.arrow-2 i {
+	
+	background-color: #df001f;
+	padding: 15px;
+	
+		
+}
+
+.cover-img {
+	margin-top: 100px;
+	
+}
+
+.cover-img .jumbotron {
+	background-image: url(img/8.jpg);
+	height: 350px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.text-img {
+	color: #dfdfdf;
+	margin-left: 30px;
+}
+
+.pill {
+	margin-left: -30px;
+	margin-top: 35px;
+}
+
+.pill span {
+	color: #df001f;
+	padding: 10px 20px;
+	margin-left: 30px;
+
+}
+
+.popular {
+
+}
+
+.popular h6 {
+	color: #df001f;
+	margin-top: -10px;
+}
+
+.music {
+	margin-left: -50px;
+
+
+}
+
+.music img {
+	margin-top: 10px;
+	overflow: hidden;
+}
+
+.play-button {
+	margin-top: 130px;
+	
+}
+
+.play-button a {
+	
+}
+
+.play-button a i {
+	color: #ff6816;
+	font-size: 30px;
+}
+
+
+
+.insta h6 {
+	color: #df001f;
+	margin-top: -10px;
+}
+
+.google .container .jumbotron {
+	background-image: url(img/14.jpg);
+	height: 350px;
+	background-repeat: no-repeat;
+	margin-top: 100px;
+}
+
+.button {
+	background-color: black;
+	border: none;
+	color: #dfdfdf;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 10px;
+	
+  }
+
+  .google {
+	  color: #dfdfdf;
+	  text-align: center;
+  }
+
+  .subs {
+	  width: 40%;
+	  margin: auto;
+	  margin-top: 100px;
+  }
+
+  .subs h6 {
+	color: #282828;
+}
+
+.subs hr {
+	height: 5px;
+	background-color: #999999;
+}
+
